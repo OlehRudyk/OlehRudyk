@@ -14,3 +14,4 @@ Today, as an independent specialist, I bridge the gap between domain expertise a
 *   **Knowledge Structuring:** Building diagnostic logic, algorithmic checklists, and medical content architecture for AI models.
 
 📫 *Always open to challenging analytical projects, data architecture collaborations, and new ideas!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oleh-rudyk-642ab512/)
